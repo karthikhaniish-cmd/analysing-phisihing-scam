@@ -1,0 +1,8 @@
+# Phishing Email Detection System Dependencies
+Flask==3.0.3
+scikit-learn==1.5.0
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+pytest==8.2.2
+python-dotenv==1.0.1

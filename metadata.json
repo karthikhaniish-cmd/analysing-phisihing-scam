@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Email Detection System Using Machine Learning",
+  "description": "Production-grade cybersecurity web application to classify emails as phishing, legitimate, or inconclusive using a trained TF-IDF & Machine Learning model with SQLite scan history and visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
